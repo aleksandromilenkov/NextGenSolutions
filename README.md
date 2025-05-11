@@ -10,11 +10,11 @@ Welcome to the official repository for the **NextGen Solutions** website – a m
 
 This website was built using:
 
-- **React** – For building the interactive frontend
-- **React Router** – For smooth navigation between pages
-- **Styled Components / SCSS / Tailwind** *(choose based on what you used)* – For responsive and modern styling
-- **EmailJS / Formspree** *(if applicable)* – For contact form handling
-- **Vite / Create React App / Webpack** *(depending on your setup)* – As the project bundler
+- **React.js** – For building the interactive frontend
+- **Three.js** - For Modern Web 3D Models
+- **CSS / Tailwind** – For responsive and modern styling
+- **EmailJS** – For contact form handling
+- **Vite** – As the project bundler
 
 ## 📂 Features
 
