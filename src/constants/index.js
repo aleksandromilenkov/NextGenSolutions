@@ -158,7 +158,6 @@ const expCards = [
     responsibilities: [
       "Architecture and backend development using ASP.NET and SQL Server",
       "Managing infrastructure and deployments",
-      "Managing infrastructure and deployments",
       "Leading frontend development using React and Redux",
       "Collaborating with the frontend team to ensure seamless integration with the backend",
       "Overseeing code quality and performance optimization",
